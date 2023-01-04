@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/LukeJennings1/Blog-Updating-Portal/static/css/main.31d6cfe0.css",
-    "main.js": "/LukeJennings1/Blog-Updating-Portal/static/js/main.092a855f.js",
-    "index.html": "/LukeJennings1/Blog-Updating-Portal/index.html",
-    "main.092a855f.js.map": "/LukeJennings1/Blog-Updating-Portal/static/js/main.092a855f.js.map"
+    "main.css": "/Blog-Updating-Portal/static/css/main.31d6cfe0.css",
+    "main.js": "/Blog-Updating-Portal/static/js/main.092a855f.js",
+    "index.html": "/Blog-Updating-Portal/index.html",
+    "main.092a855f.js.map": "/Blog-Updating-Portal/static/js/main.092a855f.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
